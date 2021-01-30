@@ -62,7 +62,7 @@ body {
 }
 
 .slide-1 {
-    background-image: #B4D1E0 url("/img/slide-image.png") no-repeat top right 35%;
+    background: #B4D1E0 url("/img/slide-image.png") no-repeat top right 35%;
 
 }
 
@@ -117,7 +117,7 @@ body {
 }
 
 .card-1 {
-    background: #E3E3E3 url('/img/card-image-1.jpg') no-repeat top right;
+    background: #E3E3E3 url('./img/card-image-1.jpg') no-repeat top right;
     background-size: cover;
 }
 
