@@ -62,7 +62,7 @@ body {
 }
 
 .slide-1 {
-    background: #B4D1E0 url('../img/slide-image.png') no-repeat top right 35%;
+    background-image: #B4D1E0 url("/img/slide-image.png") no-repeat top right 35%;
 
 }
 
